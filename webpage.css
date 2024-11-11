@@ -90,14 +90,13 @@
 }
 
 .foot{
-    padding: 20px;
+    padding: 10px;
     background-color: rgb(39, 41, 38);
     margin-left: 0px;
     align-content: center;
 
 }
 .enddiv1{
-    
     background: transparent;
     backdrop-filter: blur(4px);
     
