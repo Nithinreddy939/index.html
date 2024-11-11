@@ -1,0 +1,23 @@
+.row{
+    background-color: aquamarine;
+    font-style: italic;
+    padding: 20px;
+}
+.subdiv{
+    height: 500px;
+    width: auto;
+    border: 3px solid whitesmoke;
+    border-radius: 30px;
+    background-color: black;
+    padding: 30px;
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+}
+.subdiv1{
+    height: 500px;
+    width: auto;
+    border: 3px solid whitesmoke;
+    border-radius: 30px;
+    background-color: black;
+}
