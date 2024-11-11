@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+}
+#header{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 27px;
+    font-weight: 600;
+    height: 70px;
+    width: 100%;
+    text-shadow: 1px 3px White;
+    padding: 20px;
+}
+
+#nav-main{
+    background-color:rgb(39, 41, 38);
+    padding: 20px;
+}
+.nav-link{
+    border: 3px solid whitesmoke;
+    margin-left: 10px;
+    border-radius: 25px;
+    padding: 20px;
+}
+.marquee{
+    font-size: large;
+    background-color: brown;
+    color:black;
+}
+#maindiv{
+    background-color: rgb(39, 41, 38);
+    margin-left: 0px;
+    padding: 30px;
+    align-content: center;
+}
+.div{
+    height:auto;
+    width: auto;
+    border-radius: 40px;
+    padding: 10px;
+    margin-top: 30px;
+    
+}
+#card1{
+    color:black;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+#card2{
+    color:black;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.div1{
+    height:auto;
+    width: auto;
+    padding: 10px;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+#model{
+    margin-top:55px ;
+}
+.img{
+    height: 70px;
+    width: 70px;
+    background-image: url(https://thumbs.dreamstime.com/z/capture-relatable-moments-life-charming-vector-icon-illustration-cute-boy-depicted-playful-cartoon-style-329693805.jpg?ct=jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    border: 5px solid whitesmoke;
+}
+.cls{
+    background-color:whitesmoke;
+    height: 80px;
+    width: 80px;
+    padding: 4.5px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: -110px;
+}
+
+.foot{
+    padding: 20px;
+    
+    background-color: rgb(39, 41, 38);
+    margin-left: 0px;
+    align-content: center;
+
+}
+.enddiv1{
+    
+    background: transparent;
+    backdrop-filter: blur(4px);
+    
+}
+.enddiv2{
+    color: white;
+    padding: 50px;
+    height: auto;
+    width: auto;
+    border-left: 2px solid whitesmoke;
+    border-right: 2px solid whitesmoke;
+    border-radius: 30px;
+    background: transparent;
+    backdrop-filter: blur(4px);
+}
+.footer{
+    border-left: 2px solid whitesmoke;
+    border-right: 2px solid whitesmoke;
+    padding: 30px;
+    background-color: rgb(39, 41, 38);
+    color: white;
+    border-radius: 30px;
+    height: 300px;
+
+}
+.name{
+    height: 50px;
+    width: auto;
+    font-size: 17px;
+    font-weight: 500;
+}
+#name{
+    padding: 10px;
+    border-radius:20px ;
+    margin-left: 30px;
+}
+#name::placeholder{
+    color: black;
+}
+.mail{
+    height: 50px;
+    width: auto;
+    font-size: 17px;
+    font-weight: 500;
+}
+#mail{
+    padding: 10px;
+    border-radius:20px ;
+    margin-left: 10px;
+}
+#mail::placeholder{
+    color: black;
+}
+
+.box{
+    height: 50px;
+    width: auto;
+    font-size: 17px;
+    font-weight: 500;    
+}
+#box{
+    padding: 10px;
+    border-radius:20px ;
+
+}
+#button{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+#icon3{
+    margin-right: 20px;
+}
+#mobile{
+    float: right;
+}
