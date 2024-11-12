@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-style: oblique;
+}
+.maindiv{
+    align-content: center;
+    padding: 20px;
+}
+.subdiv{
+    height: 550px;
+    width: auto;
+    
+    
+}
+.maildiv{
+    height: 50px;
+    width: 150px;
+
+}
+#mail{
+    border-radius: 20px;
+    padding: 7px;
+    border: 2px solid white;
+    color: black;
+}
+.passworddiv{
+    margin-top: 25px;
+    height: 50px;
+    width: 100px;
+    
+}
+#password{
+    border-radius: 20px;
+    padding: 7px;
+    border: 2px solid white;
+    color: black;
+}
+span{
+    font-size: 15px;
+}
+
+@media screen and (max-width:600px){
+    body{
+        background-image: url(https://images.pexels.com/photos/604684/pexels-photo-604684.jpeg?auto=compress&cs=tinysrgb&w=800);
+        background-position: cover;
+        background-repeat: no-repeat;
+    }
+    #nav-but{
+        border:2px solid white;
+    }
+    .subdiv{
+        height: 390px;
+        width: auto;
+        background-color: aqua;
+        padding: 20px;
+        border: 2px solid white;
+        background:transparent;
+        backdrop-filter: blur(4px);
+        color: white;
+        border-radius: 30px;
+        
+    }
+    h1{
+        text-align: center;
+        font-weight: 500px;
+        
+    }
+    .maildiv{
+        height: 50px;
+        width: 100px;
+        margin-left: 10px;
+    }
+    #mail{
+        border-radius: 20px;
+        padding: 7px;
+        border: 2px solid white;
+        color: black;
+    }
+    .passworddiv{
+        margin-top: 25px;
+        height: 50px;
+        width: 100px;
+        margin-left: 10px;
+        
+    }
+    #password{
+        border-radius: 20px;
+        padding: 7px;
+        border: 2px solid white;
+        color: black;
+    }
+    span{
+        font-size: 15px;
+    }
+    .checkbox{
+        margin-top: 20px;
+        height: 25px;
+        padding: 5px;
+        margin-left: 10px;
+       
+    }
+    #checkbox{
+        margin-right: 5px;
+    }
+    .forpass{
+        float: right;
+        margin-top: 16px;
+        margin-right: 10px;
+        list-style: none;
+        font-size: 13px;
+    }
+    .button{
+        margin-left: 60px;
+        margin-top: 20px;
+        height: 30px;
+        width: 130px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-size: 20px;
+        padding: -5px;
+        word-spacing: 2px;
+        text-decoration: none;
+    }
+    .span1{
+        font-size: 12px;
+        margin-left: 70px;
+    }
+    .signup{
+        margin-left: 100px;
+    }
+
+}
